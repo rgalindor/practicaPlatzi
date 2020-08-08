@@ -2,7 +2,7 @@ Bienvenidos a este documento, esto va a ser la cabecera
 
 Cambio de titulo
 
-Esta es la historia
+Esta es la historia, este es un cambio intermedio
 
 con 31 años
 y ya eso es todo
